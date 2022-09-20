@@ -39,7 +39,3 @@ function multiply(a, b){
 Russian (native)
 
 English (A2/B1)
-
-
-
-
